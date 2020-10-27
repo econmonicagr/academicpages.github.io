@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan 'Monica' Gao Rollinson"
+title                    : "Yuan \"Monica\" Gao Rollinson"
 title_separator          : "-"
-name                     : &name "Monica"
+name                     : &name "Yuan Monica GR"
 description              : &description "University of Washington"
 url                      : https://econmonicagr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
