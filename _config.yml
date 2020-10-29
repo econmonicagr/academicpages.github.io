@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan \"Monica\" Gao Rollinson"
+title                    : "Yuan \"Monica\" Gao Rollinson – University of Washington"
 title_separator          : "-"
-name                     : &name "Yuan Monica GR"
+name                     : &name "Yuan \"Monica\" Gao Rollinson"
 description              : &description "University of Washington"
 url                      : https://econmonicagr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -88,6 +88,7 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   UW email         : "monicagr@uw.edu"
+  linkedin         : "https://www.linkedin.com/in/monicagao"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +103,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+ # talks:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+ # - scope:
+ #     path: ""
+ #     type: talks
+ #   values:
+ #     layout: talk
+ #     author_profile: true
+ #     share: true
 
 # Sass/SCSS
 sass:
