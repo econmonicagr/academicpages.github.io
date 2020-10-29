@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Monica"
   avatar           : "profile.png"
-  bio              : "Ph.D. in Economics"
+  bio              : "Ph.D. Candidate in Economics"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "monicagr@uw.edu"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  UW email         : "monicagr@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
