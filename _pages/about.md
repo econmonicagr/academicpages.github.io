@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuan Monica Gao Rollinson – University of Washington"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page that I can insert
+Welcome to my website! I am a Ph.D. candidate in Economics at the University of Washington.
 
-Field
+Research Field
 ======
-....
+* International Economics
+* Macro-finance
 
 Getting started
 ======
