@@ -8,12 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Ph.D. candidate in Economics at the University of Washington.
+Welcome to my website! 
+======
+I am a Ph.D. candidate in Economics at the University of Washington. 
+
+I am on the 2020–2021 job market and am available for interviews.
 
 Research Field
-======
+------
 * International Economics
-* Macro-finance
+* Macro-Finance
+* Applied Time Series
+
+Education
+------
+* Ph.D. in Economics
+  * University of Washington
+* M.S. in Agricultural Economics, Minor in Statistics
+  * University of Tennessee, Knoxville
+* B.S. in International Economics & Trade
+  * Huazhong University of Science & Technology
 
 Getting started
 ======
