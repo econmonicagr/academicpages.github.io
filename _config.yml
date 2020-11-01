@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan \"Monica\" Gao Rollinson – University of Washington"
+title                    : "Yuan \"Monica\" Gao Rollinson"
 title_separator          : "-"
 name                     : &name "Yuan \"Monica\" Gao Rollinson"
 description              : &description "University of Washington"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Monica"
+  name             : "Yuan \"Monica\" Gao Rollinson"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Economics"
   location         : "Seattle, WA"
-  employer         :
+  employer         : "University of Washington"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   UW email         : "monicagr@uw.edu"
