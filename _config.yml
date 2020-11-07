@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "                   "
 title_separator          : "-"
 name                     : &name "Yuan \"Monica\" Gao Rollinson (高媛)"
 description              : &description "University of Washington"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan \"Monica\" Gao Rollinson"
+  name             : "Yuan \"Monica\" Gao Rollinson (高媛)"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Economics"
   #location         : "Seattle, WA"
