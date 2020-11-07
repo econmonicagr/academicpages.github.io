@@ -21,4 +21,4 @@ permalink: /teaching/uw-teaching
   * ECON 200 (Introductory Microeconomics)   Win2016
 
 ## Consultant
-  * Econometric Consultant for Honors Students Theses in Economics     \hfill Win2019, Spr2019
+  * Econometric Consultant for Honors Students Theses in Economics   Win2019, Spr2019
