@@ -1,6 +1,6 @@
 ---
-#title: "Teaching experience 2"
-#collection: teaching
+#title: "Teaching experience"
+collection: teaching
 #type: "Workshop"
 permalink: /teaching/uw-teaching
 #venue: "University 1, Department"
