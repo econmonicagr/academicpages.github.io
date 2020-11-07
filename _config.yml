@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "                   "
+title                    : "高媛 Monica"
 title_separator          : "-"
-name                     : &name "Yuan \"Monica\" Gao Rollinson (高媛)"
+name                     : &name "Yuan \"Monica\" Gao Rollinson"
 description              : &description "University of Washington"
 url                      : https://econmonicagr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan \"Monica\" Gao Rollinson (高媛)"
+  name             : "Yuan \"Monica\" Gao Rollinson"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Economics"
   #location         : "Seattle, WA"
