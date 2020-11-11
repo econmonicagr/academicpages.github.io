@@ -22,7 +22,7 @@ Other Policy Paper:
 ===
 * ["The State of Emerging Markets: A New Perspective on Clusters and Taxonomies."](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Emerging-Market-Heterogeneity-Insights-from-Cluster-and-Taxonomy-Analysis-43085), 2015, IMF Working Paper No. 15/155 *(with Zhang, Z.)*
 
-* ["Rethinking Financial Deepening: Stability and Growth in Emerging Markets."](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2016/12/31/Rethinking-Financial-Deepening-Stability-and-Growth-in-Emerging-Markets-42868), 2015, IMF Staff Discussion Note 15/08 *(with Sahay, R, M. Cihak, P. NâDiaye, A. Barajas, R. Bi, D. Ayala, A. Kyobe, L. Nguyen, C. Saborowski, K. Svirydzenka, and S.R. Yousefi)*
+* ["Rethinking Financial Deepening: Stability and Growth in Emerging Markets."](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2016/12/31/Rethinking-Financial-Deepening-Stability-and-Growth-in-Emerging-Markets-42868), 2015, IMF Staff Discussion Note 15/08 *(with Sahay, R, M. Cihak, P. N'Diaye, A. Barajas, R. Bi, D. Ayala, A. Kyobe, L. Nguyen, C. Saborowski, K. Svirydzenka, and S.R. Yousefi)*
 
 * ["Emerging Markets in Transition: Growth Prospects and Challenges."](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2016/12/31/Emerging-Markets-in-Transition-Growth-Prospects-and-Challenges-41588), 2014, IMF Staff Discussion Note 14/6 *(with Cubeddu, L., A. Culiuc, G. Fayad, K. Kochhar, A. Kyobe, C. Oner, R. Perrelli, S. Sanya, E. Tsounta, Z. Zhang, et al.)*
 
