@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+*Please find my teach evaluations [here](https://econmonicagr.github.io/files/MonicaGR_Teach_Evaluation_combined.pdf).*
+
 ## Instructor
   * SOC/STAT 221 (Statistical Methods for the Social Sciences)   *Sum2020*
 
