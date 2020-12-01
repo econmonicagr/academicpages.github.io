@@ -9,6 +9,7 @@ author_profile: true
 Please find my teach evaluations [here](https://econmonicagr.github.io/files/MonicaGR_Teach_Evaluation_combined.pdf).
 
 Overview of My Course Evaluations
+
 <img src="https://econmonicagr.github.io/files/evaluation_graph.jpg" width="600">
 
 
