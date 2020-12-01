@@ -23,7 +23,7 @@ Overview of My Course Evaluations
   * QMETH 201 (Introduction to Statistical Methods)   *Aut2018*
   * ECON 300 (Intermediate Microeconomics)   *Win 2017, Spr2017, Win2018, Spr2018*
   * ECON 201 (Introductory Macroeconomics)   *Spr2016, Aut2016*
-  * ECON 200 (Introductory Microeconomics)   *Win2016*  -->
+  * ECON 200 (Introductory Microeconomics)   *Win2016*   
 
 ## Consultant
   * Econometric Consultant for Honors Students Theses in Economics   *Win2019, Spr2019*  
