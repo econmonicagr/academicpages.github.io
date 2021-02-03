@@ -8,7 +8,7 @@ author_profile: true
 
 Job Market Paper
 ===
-[The Accuracy of IMF Crises Nowcasts](https://econmonicagr.github.io/files/MonicaGR_JMP.pdf) ([slides](https://econmonicagr.github.io/files/IMF Nowcasts_slides.pdf))  
+[The Accuracy of IMF Crises Nowcasts](https://econmonicagr.github.io/files/MonicaGR_JMP.pdf) [[slides](https://econmonicagr.github.io/files/IMF Nowcasts_slides.pdf)]
 (with Theo Eicher)
 > The International Monetary Fund (IMF) provides loans to countries in economic crises as lender of last resort. Loan approval is tied to policy reforms and quantitative targets that are contingent on the IMF's crisis assessment. An extensive literature scrutinizes the efficacy of IMF loan programs, instead we examine the accuracy of the IMF's assessments of crisis conditions (nowcasts) that predicate program design. Analyzing an unprecedented 602 IMF loan programs from 1992 to 2019, we contradict the popular notion that IMF forecasts are generally optimistic. By disentangling the structure of the nowcast bias, we find the IMF systematically overestimates low-growth recoveries for Low-Income Countries' (LICs) GDPs while underestimating high-growth recoveries. Our unusually large sample allows us to document that Non-LICs nowcasts exhibit no statistically significant optimistic/pessimistic bias. We isolate the sources of inefficiencies in IMF nowcasts, including: (i) program objectives, (ii) program conditionality, (iii) geographic regions, (iv) global crises, and (v) geopolitics (elections, conflicts, disasters). In addition, we show that shorter nowcast horizons do not improve accuracy, and that GDP growth nowcasts improved substantially since 2013. Inflation nowcasts continue to struggle with efficiency as recently as 2018. 
 
