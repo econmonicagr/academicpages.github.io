@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuan \"Monica\" Gao Rollinson"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Economics"
+  bio              : "Ph.D. in Economics"
   #location         : "Seattle, WA"
   employer         : "University of Washington"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email         : "monicagr@uw.edu"
+  email            : "monicagr@uw.edu"
   linkedin         : "https://www.linkedin.com/in/monicagao"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
