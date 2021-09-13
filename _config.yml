@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yuan \"Monica\" Gao Rollinson"
   avatar           : "profile.png"
-  bio              : "Economist"
+  bio              : "Economist at the IMF"
   #location         : "Washington DC"
-  employer         : "International Monetary Fund"
+  #employer         : "International Monetary Fund"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "YRollinson@imf.org"
