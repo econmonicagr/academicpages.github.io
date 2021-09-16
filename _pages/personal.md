@@ -11,7 +11,7 @@ My husband and our lovely daughter Isabelle at the Golden Gardens Park, one of o
 <img src="https://econmonicagr.github.io/images/issy.jpg" width="350">
 
 
-I enjoy attending cultural events, as well as outdoor activities and cooking:)
+Born and raised in China, lived in Poland, and living in the U.S., I have always been fascinated by cultural diversity. I enjoy outdoor activities (i.e. running, hiking, and snowboarding) and cooking during leisure time. 
 
 <img src="https://econmonicagr.github.io/images/monicacooking.JPG" width="350">
 <img src="https://econmonicagr.github.io/images/snowboard.JPG" width="350">
