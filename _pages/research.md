@@ -6,21 +6,19 @@ author_profile: true
 ---
 
 
-Working Paper
+Journal Publication
 ===
-[The Accuracy of IMF Crises Nowcasts](https://econmonicagr.github.io/files/ER_IMFNowcasts.pdf)
+[The Accuracy of IMF Crises Nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132)
 (with Theo Eicher)
-> The International Monetary Fund provides loans to countries in economic crises as lender of last resort. IMF loan approvals are tied to policy reforms and quantitative targets that reflect the IMF’s crisis assessment. An extensive literature scrutinizes the efficacy of IMF loan programs, instead, we examine the accuracy of the IMF’s crisis assessments (nowcasts) that predicate program designs. Analyzing an unprecedented 602 IMF loan programs from 1992 to 2019, we contradict previous findings that IMF nowcasts are generally optimistic. Disentangling the structure of the IMF’s nowcast bias, we find the IMF systematically overestimates high-growth recoveries GDPs while low-growth recoveries for Low-Income Countries (LICs) are underestimated. In contrast, Non-LICs’ nowcasts exhibit no statistically significant optimistic/pessimistic bias. Interestingly, shorter nowcast horizons do not improve accuracy, and GDP growth nowcasts improved substantially since 2013 while inflation nowcasts remain inefficient. We also isolate the sources of IMF nowcast inefficiencies according to (i) program objectives, (ii) program conditionality-type, (iii) geographic regions, (iv) global crises, and (v) geopolitics (elections, conflicts, disasters).
+> The International Monetary Fund (IMF) provides loans to countries in economic crises as a lender of last resort. IMF loan approvals are tied to policy reforms and quantitative targets that reflect the IMF’s crisis assessment. An extensive literature scrutinizes the efficacy of IMF loan programs, instead, we examine the accuracy of the IMF’s crisis assessments (nowcasts) that predicate program designs. Analyzing an unprecedented 602 IMF loan programs from 1992 to 2019, we contradict previous findings that IMF nowcasts are generally optimistic. Disentangling the structure of the IMF’s nowcast bias, we find the IMF systematically overestimates high-growth recoveries GDPs, while low-growth recoveries for low-income countries (LICs) are underestimated. In contrast, non-LICs’ nowcasts exhibit no statistically significant optimistic and pessimistic bias. Interestingly, shorter nowcast horizons do not improve accuracy, and GDP growth nowcasts improved substantially since 2013, while inflation nowcasts remain inefficient. We also isolate the sources of IMF nowcast inefficiencies according to (i) program objectives, (ii) program conditionality type, (iii) geographic regions, (iv) global crises, and (v) geopolitics (elections, conflicts, and disasters).
 
 
-[Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?](https://econmonicagr.github.io/files/NOR_MaPP.pdf)
-(with Erlend Nier and Thorvardur Tjoervi Olafsson)
-> This paper examines empirically the role of macroprudential policy in addressing the effects of external shocks on financial stability. The baseline results show that an appreciation of the local exchange rate is associated with a subsequent increase in the domestic credit gap, while a prior tightening of macroprudential policies dampens this effect. These results are robust to accounting for endogeneity of macroprudential policy and changes in exchange rates. We also examine a feedback effect where strong domestic credit pulls in additional cross-border funding, potentially further increasing systemic risk, and find that targeted capital controls can alleviate this effect. 
 
-
-Other Policy Paper:
+Working and Policy Paper:
 ===
-* ["The State of Emerging Markets: A New Perspective on Clusters and Taxonomies."](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Emerging-Market-Heterogeneity-Insights-from-Cluster-and-Taxonomy-Analysis-43085), 2015, IMF Working Paper No. 15/155 *(with Zhang, Zhongxia)*
+* ["Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?"](https://econmonicagr.github.io/files/NOR_MaPP.pdf), 2020, IMF Working Paper No. 20/187 *(with E. Nier and T. Olafsson)*
+ 
+* ["The State of Emerging Markets: A New Perspective on Clusters and Taxonomies."](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Emerging-Market-Heterogeneity-Insights-from-Cluster-and-Taxonomy-Analysis-43085), 2015, IMF Working Paper No. 15/155 *(with Z. Zhang)*
 
 * ["Rethinking Financial Deepening: Stability and Growth in Emerging Markets."](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2016/12/31/Rethinking-Financial-Deepening-Stability-and-Growth-in-Emerging-Markets-42868), 2015, IMF Staff Discussion Note 15/08 *(with Sahay, R, M. Cihak, P. N'Diaye, A. Barajas, R. Bi, D. Ayala, A. Kyobe, L. Nguyen, C. Saborowski, K. Svirydzenka, and S.R. Yousefi)*
 
