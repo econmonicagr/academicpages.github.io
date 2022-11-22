@@ -10,8 +10,6 @@ Journal Publication
 ===
 [The Accuracy of IMF Crises Nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132), 2022, International Journal of Forecasting
 (with Theo Eicher)
-> The International Monetary Fund (IMF) provides loans to countries in economic crises as a lender of last resort. IMF loan approvals are tied to policy reforms and quantitative targets that reflect the IMF’s crisis assessment. An extensive literature scrutinizes the efficacy of IMF loan programs, instead, we examine the accuracy of the IMF’s crisis assessments (nowcasts) that predicate program designs. Analyzing an unprecedented 602 IMF loan programs from 1992 to 2019, we contradict previous findings that IMF nowcasts are generally optimistic. Disentangling the structure of the IMF’s nowcast bias, we find the IMF systematically overestimates high-growth recoveries GDPs, while low-growth recoveries for low-income countries (LICs) are underestimated. In contrast, non-LICs’ nowcasts exhibit no statistically significant optimistic and pessimistic bias. Interestingly, shorter nowcast horizons do not improve accuracy, and GDP growth nowcasts improved substantially since 2013, while inflation nowcasts remain inefficient. We also isolate the sources of IMF nowcast inefficiencies according to (i) program objectives, (ii) program conditionality type, (iii) geographic regions, (iv) global crises, and (v) geopolitics (elections, conflicts, and disasters).
-
 
 
 Working and Policy Paper:
