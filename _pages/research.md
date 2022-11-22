@@ -16,8 +16,7 @@ Journal Publication
 
 Working and Policy Paper:
 ===
-* ["Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?"](https://econmonicagr.github.io/files/NOR_MaPP.pdf), 2020, IMF Working Paper No. 20/187 
-*(with E. Nier and T. Olafsson)*
+* ["Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?"](https://econmonicagr.github.io/files/NOR_MaPP.pdf), 2020, IMF Working Paper No. 20/187 *(with E. Nier and T. Olafsson)*
  
 * ["The State of Emerging Markets: A New Perspective on Clusters and Taxonomies."](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Emerging-Market-Heterogeneity-Insights-from-Cluster-and-Taxonomy-Analysis-43085), 2015, IMF Working Paper No. 15/155 *(with Z. Zhang)*
 
