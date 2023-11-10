@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My husband and our lovely daughter Isabelle at the Golden Gardens Park, one of our favorite parks in Seattle.
+My husband and our lovely daughter Isabelle at the Golden Gardens Park (2020), one of our favorite parks in Seattle.
 
 <img src="https://econmonicagr.github.io/images/issy.jpg" width="350">
 
