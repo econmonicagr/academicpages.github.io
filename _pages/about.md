@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! 
+About Me
 ======
 I am an economist at the International Monetary Fund. I received my Ph.D. in Economics at the University of Washington in 2021. 
 
