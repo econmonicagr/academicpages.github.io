@@ -11,7 +11,7 @@ Publication
 * [The Accuracy of IMF Crises Nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132), 2022, International Journal of Forecasting
 *(with Theo Eicher)* 
 
-* ["Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?"](https://www.elibrary.imf.org/display/book/9798400211263/CH012.xm), 2023, Chapter 12 in book "Shocks and Capital Flows Policy Responses in a Volatile World" *(with E. Nier and T. Olafsson)*
+* ["Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?"](https://elibrary.imf.org/openurl?genre=book&isbn=9798400211263&cid=lk-com-imf-tipfeuea), 2023, Chapter 12 in book "Shocks and Capital Flows Policy Responses in a Volatile World" *(with E. Nier and T. Olafsson)*
 
 Working and Policy Paper:
 ===
