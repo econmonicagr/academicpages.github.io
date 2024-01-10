@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 
-Journal Publication
+Publication
 ===
-[The Accuracy of IMF Crises Nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132), 2022, International Journal of Forecasting
-(with Theo Eicher)
+* [The Accuracy of IMF Crises Nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132), 2022, International Journal of Forecasting
+*(with Theo Eicher)* 
 
+* ["Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?"](https://www.elibrary.imf.org/display/book/9798400211263/CH012.xm), 2023, Chapter 12 in book "Shocks and Capital Flows Policy Responses in a Volatile World" *(with E. Nier and T. Olafsson)*
 
 Working and Policy Paper:
 ===
-* ["Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?"](https://econmonicagr.github.io/files/NOR_MaPP.pdf), 2020, IMF Working Paper No. 20/187 *(with E. Nier and T. Olafsson)*
- 
+
 * ["The State of Emerging Markets: A New Perspective on Clusters and Taxonomies."](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Emerging-Market-Heterogeneity-Insights-from-Cluster-and-Taxonomy-Analysis-43085), 2015, IMF Working Paper No. 15/155 *(with Z. Zhang)*
 
 * ["Rethinking Financial Deepening: Stability and Growth in Emerging Markets."](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2016/12/31/Rethinking-Financial-Deepening-Stability-and-Growth-in-Emerging-Markets-42868), 2015, IMF Staff Discussion Note 15/08 *(with Sahay, R, M. Cihak, P. N'Diaye, A. Barajas, R. Bi, D. Ayala, A. Kyobe, L. Nguyen, C. Saborowski, K. Svirydzenka, and S.R. Yousefi)*
