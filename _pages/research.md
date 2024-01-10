@@ -28,3 +28,5 @@ Working and Policy Paper:
 Work in Progress:
 ===
 * Stress Testing Central Bank Balance Sheets *(with R. Lafarguette, D. King, C. Fernandes, Y.Sakurai, R. Wytenburg)*
+
+* From Sand to Silicon: Digital Transformation in the GCC Economies *(with F. Fareed, R. Bi, J.D. Lee, S. Rehman, T. Yuan)*
