@@ -15,9 +15,9 @@ I am an economist at the International Monetary Fund. I received my Ph.D. in Eco
 I am an applied macroeconomist with a [research portfolio](https://econmonicagr.github.io/research/) comprised of papers in international macroeconomics, macro-finance, and applied time series analysis. And my passion is to develop theory-based policy implications through empirical work. 
 
 
-Curriculum Vitae
+CV
 ------
-Please find my Curriculum Vitae [here](https://econmonicagr.github.io/files/MonicaGR_CV.pdf).
+Please find my CV [here](https://econmonicagr.github.io/files/MonicaGR_CV.pdf).
 
 
 Disclaimer
